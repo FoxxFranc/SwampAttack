@@ -1,0 +1,3044 @@
+fileFormatVersion: 2
+guid: 530d5e6fdc568a7479d50564001d23ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 675336727715876118
+    second: Wolf-Atlas_0
+  - first:
+      213: 7657695164191245008
+    second: Wolf-Atlas_1
+  - first:
+      213: 867764161033940145
+    second: Wolf-Atlas_2
+  - first:
+      213: -803384310303732089
+    second: Wolf-Atlas_3
+  - first:
+      213: -7185164637112652378
+    second: Wolf-Atlas_4
+  - first:
+      213: -3357268602898715074
+    second: Wolf-Atlas_5
+  - first:
+      213: 8182029591695485216
+    second: Wolf-Atlas_6
+  - first:
+      213: 4474360387791098056
+    second: Wolf-Atlas_7
+  - first:
+      213: 7345027722534171187
+    second: Wolf-Atlas_8
+  - first:
+      213: -4311175499226163243
+    second: Wolf-Atlas_9
+  - first:
+      213: -5832656878119607823
+    second: Wolf-Atlas_10
+  - first:
+      213: 3321405734155216470
+    second: Wolf-Atlas_11
+  - first:
+      213: -6088544399408446562
+    second: Wolf-Atlas_12
+  - first:
+      213: -7847071102081564357
+    second: Wolf-Atlas_13
+  - first:
+      213: 3896955891064720731
+    second: Wolf-Atlas_14
+  - first:
+      213: -6690491781116477493
+    second: Wolf-Atlas_15
+  - first:
+      213: -150376822932620066
+    second: Wolf-Atlas_16
+  - first:
+      213: -2709824273285431448
+    second: Wolf-Atlas_17
+  - first:
+      213: 8550949500729854153
+    second: Wolf-Atlas_18
+  - first:
+      213: 6088121999884114417
+    second: Wolf-Atlas_19
+  - first:
+      213: 5360921253992228673
+    second: Wolf-Atlas_20
+  - first:
+      213: 6439062114150849457
+    second: Wolf-Atlas_21
+  - first:
+      213: 8790386894859580783
+    second: Wolf-Atlas_22
+  - first:
+      213: 5005662645191118050
+    second: Wolf-Atlas_23
+  - first:
+      213: 5172556892320481322
+    second: Wolf-Atlas_24
+  - first:
+      213: -3778996351856461313
+    second: Wolf-Atlas_25
+  - first:
+      213: -5901366457863645476
+    second: Wolf-Atlas_26
+  - first:
+      213: 116139126114473011
+    second: Wolf-Atlas_27
+  - first:
+      213: 5201369168598372993
+    second: Wolf-Atlas_28
+  - first:
+      213: -3145976740968840601
+    second: Wolf-Atlas_29
+  - first:
+      213: 6472263371145001409
+    second: Wolf-Atlas_30
+  - first:
+      213: 1797410674954670131
+    second: Wolf-Atlas_31
+  - first:
+      213: 5590738685248582859
+    second: Wolf-Atlas_32
+  - first:
+      213: -4016924477361375548
+    second: Wolf-Atlas_33
+  - first:
+      213: 5318726959161141854
+    second: Wolf-Atlas_34
+  - first:
+      213: 6326024415528154518
+    second: Wolf-Atlas_35
+  - first:
+      213: -1334904439881045613
+    second: Wolf-Atlas_36
+  - first:
+      213: -5549509781479455085
+    second: Wolf-Atlas_37
+  - first:
+      213: 5463430792619537591
+    second: Wolf-Atlas_38
+  - first:
+      213: -830174562167199754
+    second: Wolf-Atlas_39
+  - first:
+      213: 8476643301254195593
+    second: Wolf-Atlas_40
+  - first:
+      213: -2765256330612177447
+    second: Wolf-Atlas_41
+  - first:
+      213: -990845540569417458
+    second: Wolf-Atlas_42
+  - first:
+      213: -4357676630194276587
+    second: Wolf-Atlas_43
+  - first:
+      213: 3088865307235237911
+    second: Wolf-Atlas_44
+  - first:
+      213: -7661646591275101973
+    second: Wolf-Atlas_45
+  - first:
+      213: -4184322359370637865
+    second: Wolf-Atlas_46
+  - first:
+      213: -6734332190620255763
+    second: Wolf-Atlas_47
+  - first:
+      213: 6339698666199152260
+    second: Wolf-Atlas_48
+  - first:
+      213: 5158166273687361037
+    second: Wolf-Atlas_49
+  - first:
+      213: -3101068425898940836
+    second: Wolf-Atlas_50
+  - first:
+      213: 4194140838189065472
+    second: Wolf-Atlas_51
+  - first:
+      213: -4966022838032206671
+    second: Wolf-Atlas_52
+  - first:
+      213: 520435286563324042
+    second: Wolf-Atlas_53
+  - first:
+      213: 467961894860575484
+    second: Wolf-Atlas_54
+  - first:
+      213: 7571113911572420159
+    second: Wolf-Atlas_55
+  - first:
+      213: 3383539239256572220
+    second: Wolf-Atlas_56
+  - first:
+      213: -3883963983366128644
+    second: Wolf-Atlas_57
+  - first:
+      213: 1393720823564647970
+    second: Wolf-Atlas_58
+  - first:
+      213: -1893566576350259579
+    second: Wolf-Atlas_59
+  - first:
+      213: -375725453950385335
+    second: Wolf-Atlas_60
+  - first:
+      213: -1089818607460007403
+    second: Wolf-Atlas_61
+  - first:
+      213: 8017684616586529420
+    second: Wolf-Atlas_62
+  - first:
+      213: -2295654084594425021
+    second: Wolf-Atlas_63
+  - first:
+      213: -832327247210186373
+    second: Wolf-Atlas_64
+  - first:
+      213: -825548467806670713
+    second: Wolf-Atlas_65
+  - first:
+      213: 3396772756989500285
+    second: Wolf-Atlas_66
+  - first:
+      213: -1102691666525611613
+    second: Wolf-Atlas_67
+  - first:
+      213: 5760560107974360147
+    second: Wolf-Atlas_68
+  - first:
+      213: 6264342232590861030
+    second: Wolf-Atlas_69
+  - first:
+      213: -986631493275245794
+    second: Wolf-Atlas_70
+  - first:
+      213: -8836499423449575909
+    second: Wolf-Atlas_71
+  - first:
+      213: 735082258115117688
+    second: Wolf-Atlas_72
+  - first:
+      213: 3516701418887324472
+    second: Wolf-Atlas_73
+  - first:
+      213: 5688599618914276606
+    second: Wolf-Atlas_74
+  - first:
+      213: 3613664824407048336
+    second: Wolf-Atlas_75
+  - first:
+      213: 8153489760991091434
+    second: Wolf-Atlas_76
+  - first:
+      213: -7839492932004503826
+    second: Wolf-Atlas_77
+  - first:
+      213: 1113988469093350039
+    second: Wolf-Atlas_78
+  - first:
+      213: -4147548136818063830
+    second: Wolf-Atlas_79
+  - first:
+      213: 7758017259006103647
+    second: Wolf-Atlas_80
+  - first:
+      213: 3447823979921921906
+    second: Wolf-Atlas_81
+  - first:
+      213: -2988609595552026020
+    second: Wolf-Atlas_82
+  - first:
+      213: 1506372084050341909
+    second: Wolf-Atlas_83
+  - first:
+      213: 844844384810828428
+    second: Wolf-Atlas_84
+  - first:
+      213: 4240610394652859220
+    second: Wolf-Atlas_85
+  - first:
+      213: -6363558480928529472
+    second: Wolf-Atlas_86
+  - first:
+      213: -6860953611706047980
+    second: Wolf-Atlas_87
+  - first:
+      213: -3708587201658310934
+    second: Wolf-Atlas_88
+  - first:
+      213: 5094411753811533558
+    second: Wolf-Atlas_89
+  - first:
+      213: -3198320646545838218
+    second: Wolf-Atlas_90
+  - first:
+      213: -8737126942143508799
+    second: Wolf-Atlas_91
+  - first:
+      213: -310604118146101793
+    second: Wolf-Atlas_92
+  - first:
+      213: -3446601279595834057
+    second: Wolf-Atlas_93
+  - first:
+      213: -3327466791055482047
+    second: Wolf-Atlas_94
+  - first:
+      213: 4549841027981662604
+    second: Wolf-Atlas_95
+  - first:
+      213: -4594045537201281781
+    second: Wolf-Atlas_96
+  - first:
+      213: 8089203006235236309
+    second: Wolf-Atlas_97
+  - first:
+      213: -7603616672661350544
+    second: Wolf-Atlas_98
+  - first:
+      213: 7711499948623366988
+    second: Wolf-Atlas_99
+  - first:
+      213: 4493472267079249843
+    second: Wolf-Atlas_100
+  - first:
+      213: 3075410563036159276
+    second: Wolf-Atlas_101
+  - first:
+      213: 288844428251093424
+    second: Wolf-Atlas_102
+  - first:
+      213: 3001738074635030808
+    second: Wolf-Atlas_103
+  - first:
+      213: -4456297109015596361
+    second: Wolf-Atlas_104
+  - first:
+      213: -8563981670553757905
+    second: Wolf-Atlas_105
+  - first:
+      213: 6247523321069895009
+    second: Wolf-Atlas_106
+  - first:
+      213: -5925933224004304302
+    second: Wolf-Atlas_107
+  - first:
+      213: -8007435221982874317
+    second: Wolf-Atlas_0
+  - first:
+      213: 3235247638972627434
+    second: Wolf-Atlas_1
+  - first:
+      213: -1153685400558919509
+    second: Wolf-Atlas_2
+  - first:
+      213: -7668882390126078955
+    second: Wolf-Atlas_3
+  - first:
+      213: -5110922445420584423
+    second: Wolf-Atlas_4
+  - first:
+      213: 7404361649261291812
+    second: Wolf-Atlas_5
+  - first:
+      213: 1484197076239407134
+    second: Wolf-Atlas_6
+  - first:
+      213: -4902136300342209450
+    second: Wolf-Atlas_7
+  - first:
+      213: -357181776857908294
+    second: Wolf-Atlas_8
+  - first:
+      213: -4310225745168747493
+    second: Wolf-Atlas_9
+  - first:
+      213: 8188894850627974681
+    second: Wolf-Atlas_10
+  - first:
+      213: -910494179742640949
+    second: Wolf-Atlas_11
+  - first:
+      213: -114921024466576710
+    second: Wolf-Atlas_12
+  - first:
+      213: 8592278474774009559
+    second: Wolf-Atlas_13
+  - first:
+      213: 3881465084576279317
+    second: Wolf-Atlas_14
+  - first:
+      213: 5153381591693015497
+    second: Wolf-Atlas_15
+  - first:
+      213: -2610123593863358344
+    second: Wolf-Atlas_16
+  - first:
+      213: 1131247379427445989
+    second: Wolf-Atlas_17
+  - first:
+      213: 6765138419769804878
+    second: Wolf-Atlas_18
+  - first:
+      213: 3175513488005439301
+    second: Wolf-Atlas_19
+  - first:
+      213: -940508536399593969
+    second: Wolf-Atlas_20
+  - first:
+      213: 9001694855845447733
+    second: Wolf-Atlas_21
+  - first:
+      213: 753300563139136509
+    second: Wolf-Atlas_22
+  - first:
+      213: -1083577223286770290
+    second: Wolf-Atlas_23
+  - first:
+      213: -314445643771238041
+    second: Wolf-Atlas_24
+  - first:
+      213: -6172847231963793501
+    second: Wolf-Atlas_25
+  - first:
+      213: -1946125653239954024
+    second: Wolf-Atlas_26
+  - first:
+      213: 425785760463467054
+    second: Wolf-Atlas_27
+  - first:
+      213: -6056767795581334433
+    second: Wolf-Atlas_28
+  - first:
+      213: 6077765364222221089
+    second: Wolf-Atlas_29
+  - first:
+      213: 5671147052540659280
+    second: Wolf-Atlas_30
+  - first:
+      213: -3592832433802521524
+    second: Wolf-Atlas_31
+  - first:
+      213: 7702603254599891750
+    second: Wolf-Atlas_32
+  - first:
+      213: 7364036825797949861
+    second: Wolf-Atlas_33
+  - first:
+      213: 3761670986065603227
+    second: Wolf-Atlas_34
+  - first:
+      213: -2327237224347899938
+    second: Wolf-Atlas_35
+  - first:
+      213: -7538325269112535751
+    second: Wolf-Atlas_36
+  - first:
+      213: -3603644792114349116
+    second: Wolf-Atlas_37
+  - first:
+      213: 8559773368907278760
+    second: Wolf-Atlas_38
+  - first:
+      213: -4034156419223587386
+    second: Wolf-Atlas_39
+  - first:
+      213: 8267924410398060494
+    second: Wolf-Atlas_40
+  - first:
+      213: -1066106453226729497
+    second: Wolf-Atlas_41
+  - first:
+      213: 1215151658404268158
+    second: Wolf-Atlas_42
+  - first:
+      213: 6848131707143918741
+    second: Wolf-Atlas_43
+  - first:
+      213: 1966012748265266002
+    second: Wolf-Atlas_44
+  - first:
+      213: 6027592087542369003
+    second: Wolf-Atlas_45
+  - first:
+      213: 4012293634273320160
+    second: Wolf-Atlas_46
+  - first:
+      213: -9040526063575769869
+    second: Wolf-Atlas_47
+  - first:
+      213: -1730518279208963625
+    second: Wolf-Atlas_48
+  - first:
+      213: 5787438490251796117
+    second: Wolf-Atlas_49
+  - first:
+      213: -3588353208160763472
+    second: Wolf-Atlas_50
+  - first:
+      213: -3687439618760350094
+    second: Wolf-Atlas_51
+  - first:
+      213: -8644729018376044187
+    second: Wolf-Atlas_52
+  - first:
+      213: -4720005385059421609
+    second: Wolf-Atlas_53
+  - first:
+      213: -2022710693917499163
+    second: Wolf-Atlas_54
+  - first:
+      213: 8754428960636074957
+    second: Wolf-Atlas_55
+  - first:
+      213: 7645949314204186409
+    second: Wolf-Atlas_56
+  - first:
+      213: 2970546976399451704
+    second: Wolf-Atlas_57
+  - first:
+      213: 968169364220401494
+    second: Wolf-Atlas_58
+  - first:
+      213: 5532750025093945678
+    second: Wolf-Atlas_59
+  - first:
+      213: -748059633080932932
+    second: Wolf-Atlas_60
+  - first:
+      213: -2354143502006516115
+    second: Wolf-Atlas_61
+  - first:
+      213: 3526990942171354004
+    second: Wolf-Atlas_62
+  - first:
+      213: 4754724146171251025
+    second: Wolf-Atlas_63
+  - first:
+      213: 7694664664508508485
+    second: Wolf-Atlas_64
+  - first:
+      213: -3901700454228279552
+    second: Wolf-Atlas_65
+  - first:
+      213: -6652815807711899456
+    second: Wolf-Atlas_66
+  - first:
+      213: 1740697245812506539
+    second: Wolf-Atlas_67
+  - first:
+      213: -4194411819676615050
+    second: Wolf-Atlas_68
+  - first:
+      213: 277196259472319592
+    second: Wolf-Atlas_69
+  - first:
+      213: -6367845588930676754
+    second: Wolf-Atlas_70
+  - first:
+      213: 8414096887984960808
+    second: Wolf-Atlas_71
+  - first:
+      213: -2751073246031113218
+    second: Wolf-Atlas_72
+  - first:
+      213: -2026293168480842221
+    second: Wolf-Atlas_73
+  - first:
+      213: 7066229352146716624
+    second: Wolf-Atlas_74
+  - first:
+      213: 6436888806130373396
+    second: Wolf-Atlas_75
+  - first:
+      213: 8821853675156459363
+    second: Wolf-Atlas_76
+  - first:
+      213: -1524511766809266386
+    second: Wolf-Atlas_77
+  - first:
+      213: 1549422552160681280
+    second: Wolf-Atlas_78
+  - first:
+      213: -6795378318393337092
+    second: Wolf-Atlas_79
+  - first:
+      213: -5988807939919634385
+    second: Wolf-Atlas_80
+  - first:
+      213: 165593491878607213
+    second: Wolf-Atlas_81
+  - first:
+      213: 3609262216835458012
+    second: Wolf-Atlas_82
+  - first:
+      213: -493947019115665625
+    second: Wolf-Atlas_83
+  - first:
+      213: 9033397501539172400
+    second: Wolf-Atlas_84
+  - first:
+      213: 1415874633412812883
+    second: Wolf-Atlas_85
+  - first:
+      213: 5254142277387949468
+    second: Wolf-Atlas_86
+  - first:
+      213: 8441781199275729509
+    second: Wolf-Atlas_87
+  - first:
+      213: 6038606506156920270
+    second: Wolf-Atlas_88
+  - first:
+      213: -3482067412987798508
+    second: Wolf-Atlas_89
+  - first:
+      213: 2081632337303634868
+    second: Wolf-Atlas_90
+  - first:
+      213: -8060597586049209942
+    second: Wolf-Atlas_91
+  - first:
+      213: -928422885555009637
+    second: Wolf-Atlas_92
+  - first:
+      213: 2102651733543542400
+    second: Wolf-Atlas_93
+  - first:
+      213: -515258398501538243
+    second: Wolf-Atlas_94
+  - first:
+      213: -390098156696052644
+    second: Wolf-Atlas_95
+  - first:
+      213: 4110689961818150607
+    second: Wolf-Atlas_96
+  - first:
+      213: 7191394706603212474
+    second: Wolf-Atlas_97
+  - first:
+      213: 8681654786896657880
+    second: Wolf-Atlas_98
+  - first:
+      213: 760309599165986657
+    second: Wolf-Atlas_99
+  - first:
+      213: 6640843954290672082
+    second: Wolf-Atlas_100
+  - first:
+      213: -4396982446314255369
+    second: Wolf-Atlas_101
+  - first:
+      213: 7962093898782665369
+    second: Wolf-Atlas_102
+  - first:
+      213: -7225457164901425785
+    second: Wolf-Atlas_103
+  - first:
+      213: 9133962877484306566
+    second: Wolf-Atlas_104
+  - first:
+      213: -6127922415053364619
+    second: Wolf-Atlas_105
+  - first:
+      213: 1338191720701084317
+    second: Wolf-Atlas_106
+  - first:
+      213: -694585525234815655
+    second: Wolf-Atlas_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wolf-Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1847
+        width: 56
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33572cf3710efd090800000000000000
+      internalID: -8007435221982874317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1847
+        width: 66
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae972692698e5ec20800000000000000
+      internalID: 3235247638972627434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1847
+        width: 93
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0a12d9d394dffe0800000000000000
+      internalID: -1153685400558919509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1847
+        width: 105
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51459400918a29590800000000000000
+      internalID: -7668882390126078955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1871
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912a22e5d1b5219b0800000000000000
+      internalID: -5110922445420584423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1884
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429aeb4a0b391c660800000000000000
+      internalID: 7404361649261291812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1847
+        width: 107
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e185ce1906de89410800000000000000
+      internalID: 1484197076239407134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1847
+        width: 127
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6541e89e10d18fbb0800000000000000
+      internalID: -4902136300342209450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1847
+        width: 106
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb342ef0190b0bf0800000000000000
+      internalID: -357181776857908294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1847
+        width: 106
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14397575800f24c0800000000000000
+      internalID: -4310225745168747493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1847
+        width: 110
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b4b2ea7cc4a170800000000000000
+      internalID: 8188894850627974681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1848
+        width: 99
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc411661e564d53f0800000000000000
+      internalID: -910494179742640949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1859
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1277efe7b76ef0800000000000000
+      internalID: -114921024466576710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1870
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d32cbfb7ed3770800000000000000
+      internalID: 8592278474774009559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1849
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b2046fdebbdd530800000000000000
+      internalID: 3881465084576279317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1852
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c936ecf04d748740800000000000000
+      internalID: 5153381591693015497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1847
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87898ef9b6af6cbd0800000000000000
+      internalID: -2610123593863358344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1730
+        width: 118
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec4ddb7f7ff2bf00800000000000000
+      internalID: 1131247379427445989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1730
+        width: 118
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e480abeac8992ed50800000000000000
+      internalID: 6765138419769804878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1730
+        width: 122
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f960851b0b11c20800000000000000
+      internalID: 3175513488005439301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1730
+        width: 122
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0efdab1874a2f2f0800000000000000
+      internalID: -940508536399593969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1730
+        width: 124
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538012347c17cec70800000000000000
+      internalID: 9001694855845447733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1730
+        width: 124
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb820bfed2447a00800000000000000
+      internalID: 753300563139136509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1730
+        width: 115
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85b947a14c56f0f0800000000000000
+      internalID: -1083577223286770290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1730
+        width: 115
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a8dd5a5dd2abf0800000000000000
+      internalID: -314445643771238041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1730
+        width: 108
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a77b0ec524a55aa0800000000000000
+      internalID: -6172847231963793501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1637
+        width: 108
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958b568709fdf4e0800000000000000
+      internalID: -1946125653239954024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1637
+        width: 110
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2238daa4e1b8e500800000000000000
+      internalID: 425785760463467054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1637
+        width: 110
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4951b7c902fba0800000000000000
+      internalID: -6056767795581334433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1637
+        width: 112
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b53aab56f885450800000000000000
+      internalID: 6077765364222221089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1637
+        width: 112
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05680bf7236f3be40800000000000000
+      internalID: 5671147052540659280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1637
+        width: 112
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44d2b5efe1b32ec0800000000000000
+      internalID: -3592832433802521524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1637
+        width: 112
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bb13499d425ea60800000000000000
+      internalID: 7702603254599891750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1637
+        width: 110
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9f49a0a70523660800000000000000
+      internalID: 7364036825797949861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1637
+        width: 110
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a6556e4d3243430800000000000000
+      internalID: 3761670986065603227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1637
+        width: 108
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed76dae131ef3bfd0800000000000000
+      internalID: -2327237224347899938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1541
+        width: 108
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93542358b1d726790800000000000000
+      internalID: -7538325269112535751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1541
+        width: 107
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb765d87284dfdc0800000000000000
+      internalID: -3603644792114349116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1541
+        width: 107
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a92193078c6ac670800000000000000
+      internalID: 8559773368907278760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1541
+        width: 101
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5f0df4c1cc308c0800000000000000
+      internalID: -4034156419223587386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1541
+        width: 101
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfae8722719db270800000000000000
+      internalID: 8267924410398060494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1541
+        width: 102
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef4baa44dd6431f0800000000000000
+      internalID: -1066106453226729497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1541
+        width: 102
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c963cef51dd010800000000000000
+      internalID: 1215151658404268158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1541
+        width: 113
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59417633183790f50800000000000000
+      internalID: 6848131707143918741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1541
+        width: 113
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b9d3c9d2ea84b10800000000000000
+      internalID: 1966012748265266002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1443
+        width: 151
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0bec611f46a350800000000000000
+      internalID: 6027592087542369003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1443
+        width: 160
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec1c656dc78ea730800000000000000
+      internalID: 4012293634273320160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1338
+        width: 169
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd7e5a179998280800000000000000
+      internalID: -9040526063575769869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1339
+        width: 172
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1fd623bc6fbf7e0800000000000000
+      internalID: -1730518279208963625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1339
+        width: 168
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e91eac4ac115050800000000000000
+      internalID: 5787438490251796117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1338
+        width: 161
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1c1f2e4cb933ec0800000000000000
+      internalID: -3588353208160763472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1338
+        width: 163
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2766611243593dcc0800000000000000
+      internalID: -3687439618760350094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1338
+        width: 169
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5614f2072c0c70880800000000000000
+      internalID: -8644729018376044187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1264
+        width: 169
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7523a952c1c2f7eb0800000000000000
+      internalID: -4720005385059421609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1264
+        width: 171
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e9a53753ede3e0800000000000000
+      internalID: -2022710693917499163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1264
+        width: 169
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbfa1ab1cafd7970800000000000000
+      internalID: 8754428960636074957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1264
+        width: 168
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92738cb246edb1a60800000000000000
+      internalID: 7645949314204186409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1264
+        width: 171
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83666e48cb0893920800000000000000
+      internalID: 2970546976399451704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1264
+        width: 169
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657d5cc38e0af6d00800000000000000
+      internalID: 968169364220401494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1114
+        width: 81
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4912c485d648cc40800000000000000
+      internalID: 5532750025093945678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1118
+        width: 117
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e6632abb5e95f0800000000000000
+      internalID: -748059633080932932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1118
+        width: 114
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d668b9c25f6645fd0800000000000000
+      internalID: -2354143502006516115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1134
+        width: 207
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d42a339362f030800000000000000
+      internalID: 3526990942171354004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1134
+        width: 207
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15982895b6c2cf140800000000000000
+      internalID: 4754724146171251025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1115
+        width: 143
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a7c98eb0f8ca60800000000000000
+      internalID: 7694664664508508485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1114
+        width: 135
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f3eb5eb106ad9c0800000000000000
+      internalID: -3901700454228279552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1000
+        width: 81
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09a3165437ca3a0800000000000000
+      internalID: -6652815807711899456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1003
+        width: 104
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafb7262ce2382810800000000000000
+      internalID: 1740697245812506539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1003
+        width: 99
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67eb9764ca47ac5c0800000000000000
+      internalID: -4194411819676615050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1001
+        width: 105
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8642ae2878cc8d300800000000000000
+      internalID: 277196259472319592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1000
+        width: 81
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7bf37dc2ed0a7a0800000000000000
+      internalID: -6367845588930676754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 893
+        width: 132
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82530123a80e4c470800000000000000
+      internalID: 8414096887984960808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 893
+        width: 164
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef31c33657932d9d0800000000000000
+      internalID: -2751073246031113218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 893
+        width: 132
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e06e9591921e3e0800000000000000
+      internalID: -2026293168480842221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 94
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7c424482a401260800000000000000
+      internalID: 7066229352146716624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 765
+        width: 132
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413d61cd34c645950800000000000000
+      internalID: 6436888806130373396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 764
+        width: 103
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fcc286d258d6a70800000000000000
+      internalID: 8821853675156459363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 764
+        width: 98
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273e6310a8d7dae0800000000000000
+      internalID: -1524511766809266386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 763
+        width: 152
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d348c1a97a08510800000000000000
+      internalID: 1549422552160681280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 763
+        width: 167
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa16c14c67f1b1a0800000000000000
+      internalID: -6795378318393337092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 763
+        width: 179
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f202d01a8ea73eca0800000000000000
+      internalID: -5988807939919634385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 764
+        width: 128
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d697a8c476e4c4200800000000000000
+      internalID: 165593491878607213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 121
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd367bf0ddca61230800000000000000
+      internalID: 3609262216835458012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 619
+        width: 139
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7276fbb9dc52529f0800000000000000
+      internalID: -493947019115665625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 619
+        width: 208
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030c42aaa231d5d70800000000000000
+      internalID: 9033397501539172400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 619
+        width: 181
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350ae0b3a7236a310800000000000000
+      internalID: 1415874633412812883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 619
+        width: 159
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95121b40967ae840800000000000000
+      internalID: 5254142277387949468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 619
+        width: 205
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562a666364b372570800000000000000
+      internalID: 8441781199275729509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 155
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd88d99f907dc350800000000000000
+      internalID: 6038606506156920270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 502
+        width: 129
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c16ecf2263dafc0800000000000000
+      internalID: -3482067412987798508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 319
+        width: 70
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b303f1f49173ec10800000000000000
+      internalID: 2081632337303634868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 319
+        width: 101
+        height: 143
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa96a2ec331032090800000000000000
+      internalID: -8060597586049209942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 319
+        width: 96
+        height: 138
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b978629fd449d13f0800000000000000
+      internalID: -928422885555009637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 319
+        width: 70
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ed8308c9e1e2d10800000000000000
+      internalID: 2102651733543542400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 80
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3677cd673f69d8f0800000000000000
+      internalID: -515258398501538243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 172
+        width: 175
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cd8961bc7169af0800000000000000
+      internalID: -390098156696052644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 172
+        width: 165
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc65febadba1c0930800000000000000
+      internalID: 4110689961818150607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 198
+        width: 80
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe75be4267fcc360800000000000000
+      internalID: 7191394706603212474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 103
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd7b83080f6b7870800000000000000
+      internalID: 8681654786896657880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 86
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167bb995d892d8a00800000000000000
+      internalID: 760309599165986657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1
+        width: 148
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1cb484464092c50800000000000000
+      internalID: 6640843954290672082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1
+        width: 153
+        height: 131
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb8fc3e2c7caf2c0800000000000000
+      internalID: -4396982446314255369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 50
+        width: 43
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aee39473a0f7e60800000000000000
+      internalID: 7962093898782665369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1
+        width: 125
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ddf3a9df40abb90800000000000000
+      internalID: -7225457164901425785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2
+        width: 116
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6809e00e7da52ce70800000000000000
+      internalID: 9133962877484306566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2
+        width: 81
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5722797d70f35faa0800000000000000
+      internalID: -6127922415053364619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2
+        width: 81
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c1c9a746329210800000000000000
+      internalID: 1338191720701084317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf-Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 2
+        width: 84
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d204615265c56f0800000000000000
+      internalID: -694585525234815655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fcd3d34d848c0204299fee545565f632
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

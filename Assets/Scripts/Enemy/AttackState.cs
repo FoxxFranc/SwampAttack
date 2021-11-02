@@ -5,10 +5,10 @@ using UnityEngine;
 [RequireComponent(typeof(Animator))]
 public class AttackState : State
 {
-    [SerializeField] private int _dammage;
+    [SerializeField] private int _damage;
     [SerializeField] private float _delay;
 
-    private float _lastAtackTime;
+    private float _lastAttackTime;
     private Animator _animator;
 
     private void Start()
@@ -18,17 +18,18 @@ public class AttackState : State
 
     private void Update()
     {
-        if (_lastAtackTime <= 0)
+        if(_lastAttackTime <= 0)
         {
             Attack(Target);
-            _lastAtackTime = _delay;
+            _lastAttackTime = _delay;
         }
-        _lastAtackTime -= Time.deltaTime;
+
+        _lastAttackTime -= Time.deltaTime;
     }
 
     private void Attack(Player target)
     {
         _animator.Play("Attack");
-        target.ApplyDamage(_dammage);
+        target.ApplyDamage(_damage);
     }
 }

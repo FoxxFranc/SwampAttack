@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6b5b647d6abdbba4ab7a011bdd7c3591
+guid: deae89d02ece3c644b45d5266a643621
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -726,7 +726,7 @@ TextureImporter:
       213: -6204526202666183965
     second: Minotaur - Sprite Sheet_119
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -780,7 +780,6 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -807,7 +806,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -819,7 +818,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1220,7 +1219,7 @@ TextureImporter:
         width: 56
         height: 45
       alignment: 9
-      pivot: {x: 0.7390218, y: 0.0686442}
+      pivot: {x: 0.839757, y: -0.0000027126737}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1241,7 +1240,7 @@ TextureImporter:
         width: 75
         height: 65
       alignment: 9
-      pivot: {x: 0.47940734, y: 0.10296349}
+      pivot: {x: 0.53286827, y: 0.09440918}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1262,7 +1261,7 @@ TextureImporter:
         width: 71
         height: 65
       alignment: 9
-      pivot: {x: 0.42031926, y: 0.11314604}
+      pivot: {x: 0.533037, y: 0.092221305}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1283,7 +1282,7 @@ TextureImporter:
         width: 57
         height: 63
       alignment: 9
-      pivot: {x: 0.31142226, y: 0.12571692}
+      pivot: {x: 0.42317924, y: 0.09372675}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1304,7 +1303,7 @@ TextureImporter:
         width: 55
         height: 46
       alignment: 9
-      pivot: {x: 0.33542314, y: 0.14758301}
+      pivot: {x: 0.4367892, y: 0.10993228}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1325,7 +1324,7 @@ TextureImporter:
         width: 55
         height: 46
       alignment: 9
-      pivot: {x: 0.33542258, y: 0.14758301}
+      pivot: {x: 0.436782, y: 0.111638606}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1346,7 +1345,7 @@ TextureImporter:
         width: 49
         height: 46
       alignment: 9
-      pivot: {x: 0.3729983, y: 0.1352831}
+      pivot: {x: 0.490197, y: 0.10916801}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1366,8 +1365,8 @@ TextureImporter:
         y: 1568
         width: 48
         height: 41
-      alignment: 9
-      pivot: {x: 0.38213858, y: 0.055193644}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

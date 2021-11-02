@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f5274ff4545d2b64497a42167f2a0171
+guid: 2f395014a2b68b64cb81437df8cbdb2c
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -11,41 +11,8 @@ TextureImporter:
   - first:
       213: -6108889420429456849
     second: Tileset_2
-  - first:
-      213: 5682393469540925955
-    second: Tileset_3
-  - first:
-      213: 2403724249865808194
-    second: Tileset_4
-  - first:
-      213: 8040196581939011165
-    second: Tileset_5
-  - first:
-      213: -6056380807486736462
-    second: Tileset_6
-  - first:
-      213: -8480404140891905064
-    second: Tileset_7
-  - first:
-      213: -72156938504300551
-    second: Tileset_8
-  - first:
-      213: 7769453424612927293
-    second: Tileset_9
-  - first:
-      213: -8025435653959805260
-    second: Tileset_10
-  - first:
-      213: 4938342473259674171
-    second: Tileset_11
-  - first:
-      213: -6315978382755026507
-    second: Tileset_12
-  - first:
-      213: -1010255394613501995
-    second: Tileset_13
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -73,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -99,7 +66,6 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -126,7 +92,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Android
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -138,7 +104,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -156,9 +122,9 @@ TextureImporter:
       name: Tileset_0
       rect:
         serializedVersion: 2
-        x: 47
+        x: 48
         y: 96
-        width: 17
+        width: 16
         height: 19
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
